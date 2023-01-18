@@ -1,5 +1,3 @@
-//wap to convert total no of days into mthns days
-
 #include <stdio.h>
 int main()
 {
